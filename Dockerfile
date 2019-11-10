@@ -1,4 +1,4 @@
-FROM alpine
+FROM docker.io/alpine
 ENV TOR_LANGUAGE en-US
 ENV LIBREFOX true
 # to use Librefox configuration https://github.com/intika/Librefox
